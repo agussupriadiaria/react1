@@ -14,7 +14,7 @@ function Search({ onSearch }) {
         Cari: &nbsp;
         <input type="text" onChange={handleInputChange} />
       </div>
-      <small>Pencarian dengan kata kunci {search}</small>
+      <small>Ditemukan 0 pencarian dengan kata {search}</small>
     </>
   );
 }

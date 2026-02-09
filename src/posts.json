@@ -1,17 +1,20 @@
 [
   {
-    "title": "Perjalanan Abadi Seorang Pria",
-    "tags": ["advanture", "romance", "story"],
-    "price": 45000
+    "merk": "honda",
+    "variant": "beat",
+    "tags": ["matic", "irit"],
+    "price": 14000000
   },
   {
-    "title": "Mencari Kitab Kebenaran",
-    "tags": ["advanture", "scifi", "legend"],
-    "price": 55000
+    "merk": "suzuki",
+    "variant": "spin",
+    "tags": ["matic", "murah"],
+    "price": 12000000
   },
   {
-    "title": "Berteduh Dibawah Batu",
-    "tags": ["story", "fiction", "story"],
-    "price": 35000
+    "merk": "yamaha",
+    "variant": "mio",
+    "tags": ["matic", "sporty"],
+    "price": 13000000
   }
 ]
