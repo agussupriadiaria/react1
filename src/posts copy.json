@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Math book for 4th",
+    "tags": ["students", "math"],
+    "price": 20000
+  },
+  {
+    "title": "Doraemon Chapter 2",
+    "tags": ["entertaint", "comic"],
+    "price": 26000
+  },
+  {
+    "title": "Detective Conan",
+    "tags": ["entertaint", "comic"],
+    "price": 30000
+  }
+]

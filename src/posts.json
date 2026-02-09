@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Perjalanan Abadi Seorang Pria",
+    "tags": ["advanture", "romance", "story"],
+    "price": 45000
+  },
+  {
+    "title": "Mencari Kitab Kebenaran",
+    "tags": ["advanture", "scifi", "legend"],
+    "price": 55000
+  },
+  {
+    "title": "Berteduh Dibawah Batu",
+    "tags": ["story", "fiction", "story"],
+    "price": 35000
+  }
+]
